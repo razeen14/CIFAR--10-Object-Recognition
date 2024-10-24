@@ -23,9 +23,7 @@ Training Set: Used to train the machine learning model.
 
 Test Set: Used to evaluate the performance of the model.
 
-To Download the Dataset visit
-
-[https://www.kaggle.com/competitions/cifar-10/data](url)
+To Download the Dataset visit :  [https://www.kaggle.com/competitions/cifar-10/data](url)
 
 # Workflow
 
